@@ -1,0 +1,33 @@
+BY - Requires Attribution.
+SA - Share Alike.
+NC - Non-commercial only.
+ND - No detrivative works.
+
+CC-BY-2.0 Non-commercial: Share; Adapt. Commercial: Share; Adapt. Requires: Appropriate Credit, Link To Licence, Indications of Modification.
+
+https://commons.wikimedia.org/wiki/Category:CC-Zero
+
+https://freepd.com/
+
+
+https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=%22Einstein%22&srnamespace=6
+
+
+https://commons.wikimedia.org/w/api.php?action=query&generator=images&prop=imageinfo&gimlimit=500&redirects=1&titles=Cat&iiprop=timestamp|user|userid|comment|canonicaltitle|url|size|dimensions|sha1|mime|thumbmime|mediatype|bitdepth
+
+"https://commons.wikimedia.org/w/api.php?action=query&generator=images&prop=imageinfo&gimlimit=100&redirects=1&list=search&srsearch=%22Einstein%22&srnamespace=6&iiprop=timestamp|user|userid|comment|canonicaltitle|url|size|dimensions|sha1|mime|thumbmime|mediatype|bitdepth"
+
+https://commons.wikimedia.org/w/api.php?action=query&generator=images&prop=imageinfo&gimlimit=100&redirects=1&list=search&srsearch=%22Einstein%22&iiprop=timestamp|user|userid|canonicaltitle|url|size|mime
+
+https://commons.wikimedia.org/w/api.php?action=query&prop=images&imlimit=500&search=%22Einstein%22
+
+https://commons.wikimedia.org/w/api.php?action=query
+
+aisort=name
+aidir=newer
+aiprop=timestamp|user|userid|canonicaltitle|url|size|mime|
+ailimit=100
+
+
+import commonsdownloader
+
